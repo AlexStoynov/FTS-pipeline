@@ -1,0 +1,22 @@
+# Real bank statement files — contain personal financial data (GDPR)
+bankstatements/
+tests/fixtures/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+src/config.py
+
+# IDE
+.idea/
+.vscode/
+*.iml
