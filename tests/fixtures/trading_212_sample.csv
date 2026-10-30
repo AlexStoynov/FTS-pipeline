@@ -1,4 +1,0 @@
-Action,Time (UTC),Notes,ID,Gross Total,Currency (Gross Total),Merchant name,Merchant category
-Interest on cash,2026-08-27 01:14:03+00:00,"Interest on cash",01a040c7-fcba-77b5-a579-177890b61099,0.11,"EUR",,
-Card debit,2026-08-28 02:14:03+00:00,,01a0a039-0569-7220-807d-04bf26aa0dd7,-159.11,"EUR","Revolut","SERVICE_PROVIDERS"
-Deposit,2026-08-28 06:14:03+00:00,"Transaction ID: 132",01a0c350-d7fe-7547-9319-1493ea0a689a,300.00,"EUR",,
